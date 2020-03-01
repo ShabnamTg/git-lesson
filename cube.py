@@ -3,5 +3,5 @@ def cube(number):
 
 
 cube(5)
-
+#to find cube of a number
 
