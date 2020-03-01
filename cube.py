@@ -2,4 +2,6 @@ def cube(number):
     return number*number*number
 
 
-print(cube(5))
+cube(5)
+
+
